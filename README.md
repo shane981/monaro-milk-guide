@@ -1,5 +1,3 @@
-Monaro Milk compliance guide.
+Team link after Pages is enabled: https://shane981.github.io/monaro-milk-guide/
 
-Team link after GitHub Pages is on: https://shane981.github.io/monaro-milk-guide/
-
-Drivers open that link and tap Add to phone. No app store and no login.
+Enable once: Settings → Pages → Source: GitHub Actions.
