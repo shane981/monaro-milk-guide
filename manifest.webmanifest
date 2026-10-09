@@ -1,10 +1,9 @@
 {
-  "name": "Monaro Milk Compliance Guide",
-  "short_name": "Monaro Milk",
-  "start_url": "./index.html",
-  "scope": "./",
+  "name": "Company CoR Suite",
+  "short_name": "CoR Suite",
+  "start_url": "./",
   "display": "standalone",
-  "background_color": "#f4f7f2",
+  "background_color": "#15773e",
   "theme_color": "#15773e",
-  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+  "icons": [{"src": "https://www.monaromilk.com.au/media/1119/monaro-milklogo.png", "sizes": "192x192", "type": "image/png"}]
 }
