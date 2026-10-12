@@ -26,3 +26,8 @@ label.duty{display:block;border-bottom:1px solid var(--line);padding:12px 0}.dut
 .bar{height:8px;background:#e7e9ea;border-radius:99px;overflow:hidden;margin:8px 0}.bar i{display:block;height:100%;background:var(--gold)}
 
 .chips{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.chip{border:0;background:#fff;border-radius:14px;padding:14px 16px;font-size:16px;color:var(--ink);box-shadow:0 8px 18px #042c4910}.dash .btn{margin-top:8px}#find{width:100%;margin:8px 0}
+
+.ring{width:92px;height:92px;border-radius:50%;display:grid;place-items:center;background:conic-gradient(#c1b998 calc(var(--p)*1%),#e7e9ea 0);margin-bottom:8px}.ring b{width:68px;height:68px;border-radius:50%;background:#fff;display:grid;place-items:center}
+.btn.big{width:100%;padding:16px;font-size:18px}
+.gauge{height:16px;background:#e7e9ea;border-radius:99px;overflow:hidden;margin:10px 0}.gauge i{display:block;height:100%;width:0;background:#c1b998;transition:width .3s}
+.good{color:#0a7a3e;font-weight:700}.chip{cursor:pointer}.panel{animation:in .25s ease}@keyframes in{from{opacity:.4;transform:translateY(6px)}to{opacity:1;transform:none}}
